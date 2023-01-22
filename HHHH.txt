@@ -5,3 +5,5 @@ git add 파일이름(or .)
 git commit -m "커밋이름"
 git remote add origin "Github 주소"
 git push origin master
+
+Clone : dfkdffofs
